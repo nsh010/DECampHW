@@ -6,7 +6,6 @@
 **.terraform.lock.*
 **google_credentials.json
 **logs/
-**.env
+**env
 **__pycache__/
 .vscode
-**DBDATA
